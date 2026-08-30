@@ -1,0 +1,246 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Metal Bit Replace",
+          "replace_ids": [
+            106702607873813
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/void%20spear%20white.obj"
+        },
+        {
+          "name": "Body Replace",
+          "replace_ids": [
+            79215628363676
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/void%20spear%20black.obj"
+        },
+        {
+          "name": "Hide Extras",
+          "replace_ids": [
+            76859780801582,
+            87127434278076
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Animation",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Throw Replace",
+          "replace_ids": [
+            80570593089595
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/spear%20throw.rbxm"
+        },
+        {
+          "name": "Final Throw Replace",
+          "replace_ids": [
+            121749365506317
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/spear%20throw%20final.rbxm"
+        },
+        {
+          "name": "Equip Replace",
+          "replace_ids": [
+            93289983857589
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/spear%20equip.rbxm"
+        },
+        {
+          "name": "Stab1 Replace",
+          "replace_ids": [
+            93007697469897
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/spear%20stab1.rbxm"
+        },
+        {
+          "name": "Stab2 Replace",
+          "replace_ids": [
+            140542457622393
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/spear%20stab2.rbxm"
+        },
+        {
+          "name": "Idle Replace",
+          "replace_ids": [
+            78684857282298
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/spear%20idle.rbxm"
+        },
+        {
+          "name": "Inspect Replace",
+          "replace_ids": [
+            126430509584608
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/spear%20inspect.rbxm"
+        },
+        {
+          "name": "Sprint Replace",
+          "replace_ids": [
+            89142960157509
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/spear%20sprint.rbxm"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Wrap (over Money)",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Wrap Replace",
+          "replace_ids": [
+            120516745997404
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/blob/main/Void%20Texture.png?raw=true"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sounds",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Stab1 Replace",
+          "replace_ids": [
+            117634080761694
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/quasar%20stab1.mp3"
+        },
+        {
+          "name": "Stab2 Replace",
+          "replace_ids": [
+            119713534712313
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/quasar%20stab2.mp3"
+        },
+        {
+          "name": "Stab3 Replace",
+          "replace_ids": [
+            105025971160103
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/quasar%20stab3.mp3"
+        },
+        {
+          "name": "Throw1 Replace",
+          "replace_ids": [
+            111073083700270
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/quasar%20throw1.mp3"
+        },
+        {
+          "name": "Throw2 Replace",
+          "replace_ids": [
+            94924686270578
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/quasar%20throw2.mp3"
+        },
+        {
+          "name": "Throw3 Replace",
+          "replace_ids": [
+            132703068792668
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/quasar%20throw3.mp3"
+        },
+        {
+          "name": "Equip Replace (Affects Knife)",
+          "replace_ids": [
+            13160326139
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 112097244349559
+        },
+        {
+          "name": "Thud Replace",
+          "replace_ids": [
+            78976757664560
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/quasar%20thud.mp3"
+        },
+        {
+          "name": "Thud2 Replace",
+          "replace_ids": [
+            86096630213185
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/raw/refs/heads/main/quasar%20thud2.mp3"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon 2 Replace",
+          "replace_ids": [
+            111446720428762
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/blob/main/quasar%20thumbnail%202.png?raw=true"
+        },
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            122801133017271
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/blob/main/quasar%20thumbnail.png?raw=true"
+        }
+      ]
+    }
+  ]
+}
